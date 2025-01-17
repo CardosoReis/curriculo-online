@@ -4,7 +4,7 @@ Este é um projeto pessoal para apresentar o meu currículo em formato de site. 
 
 ## 🖥️ Demonstração
 
-Você pode acessar o site publicado aqui: [Currículo Online](https://github.com/CardosoReis/curriculo-online.git)  
+Você pode acessar o site publicado aqui: [Currículo Online](https://cardosoreis.github.io/curriculo-online/)  
 
 ---
 
